@@ -37,6 +37,10 @@
 // obj.close();
 //     }
 
+
+
+
+
 // 3)question
 
 //  public static void main(String[] args) {
@@ -49,6 +53,9 @@
 //             System.out.println("negative");
 //         }
 //     }
+
+
+
 
 // 4)question
 
@@ -75,6 +82,9 @@
 //      obj.close();
 //      }
 
+
+
+
 // 5)question
 
 
@@ -91,6 +101,9 @@
 
 //      obj.close();
 //     }
+
+
+
 
 
 // 6)question
