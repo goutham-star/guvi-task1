@@ -11,3 +11,9 @@ public class q3 {
     }
 
 }
+
+// output
+
+// positive
+
+

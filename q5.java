@@ -16,3 +16,12 @@ public class q5 {
      obj.close();
     }
 }
+
+
+// output
+
+// purchaseamount :1500 
+// discountpercentage :20
+// purchase amount: 1500.0
+// Discount (20.0%):300.0
+// Final payable amount: 1200.0

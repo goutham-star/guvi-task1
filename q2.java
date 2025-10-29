@@ -20,3 +20,9 @@ System.out.println("Reversed number: " + reversed);
 obj.close();
     }
 }
+
+// output
+
+// Enter a number
+// 876
+// Reversed number: 678
